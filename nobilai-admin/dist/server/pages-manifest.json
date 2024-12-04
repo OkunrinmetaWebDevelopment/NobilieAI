@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/home-dashboard": "pages/home-dashboard.js",
+  "/admin/directions": "pages/admin/directions.js",
+  "/admin/upload": "pages/admin/upload.js",
+  "/": "pages/index.js",
+  "/admin/settings": "pages/admin/settings.js",
+  "/admin/locations": "pages/admin/locations.js"
+}
