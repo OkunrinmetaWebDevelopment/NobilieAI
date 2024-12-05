@@ -1,11 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/home-dashboard": "pages/home-dashboard.js",
-  "/admin/directions": "pages/admin/directions.js",
-  "/admin/upload": "pages/admin/upload.js",
-  "/": "pages/index.js",
-  "/admin/settings": "pages/admin/settings.js",
-  "/admin/locations": "pages/admin/locations.js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/admin/directions":"pages/admin/directions.html","/admin/locations":"pages/admin/locations.html","/":"pages/index.html","/admin/upload":"pages/admin/upload.html","/login":"pages/login.html","/admin/settings":"pages/admin/settings.html","/home-dashboard":"pages/home-dashboard.js","/_document":"pages/_document.js","/404":"pages/404.html"}
